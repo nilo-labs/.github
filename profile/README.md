@@ -1,5 +1,7 @@
 # NILO
 
+[🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
+
 **NILO** is a software development and research organization focused on building scalable systems, intelligent tools, and modern digital products.
 
 Our goal is to explore technology through practical engineering, experimentation, and continuous learning.
