@@ -37,7 +37,7 @@ At NILO, we believe that great software is built through:
 
 ## Vision
 
-Our long-term vision is to grow NILO Labs into a space for innovation, experimentation, and impactful software development.
+Our long-term vision is to grow NILO into a space for innovation, experimentation, and impactful software development.
 
 ---
 
