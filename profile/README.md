@@ -1,6 +1,6 @@
-# NILO Labs
+# NILO
 
-**NILO Labs** is a software development and research organization focused on building scalable systems, intelligent tools, and modern digital products.
+**NILO** is a software development and research organization focused on building scalable systems, intelligent tools, and modern digital products.
 
 Our goal is to explore technology through practical engineering, experimentation, and continuous learning.
 
@@ -26,7 +26,7 @@ We focus on building and researching technologies in areas such as:
 
 ## Philosophy
 
-At NILO Labs, we believe that great software is built through:
+At NILO, we believe that great software is built through:
 
 * **Curiosity** — constantly exploring new ideas and technologies
 * **Engineering discipline** — writing clean, maintainable, and scalable code
