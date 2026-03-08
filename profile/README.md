@@ -1,8 +1,8 @@
-# NILO
+# Nilo Labs
 
 [🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
 
-**NILO** is a software development and research organization focused on building scalable systems, intelligent tools, and modern digital products.
+**Nilo Labs** is a software development and research organization focused on building scalable systems, intelligent tools, and modern digital products.
 
 Our goal is to explore technology through practical engineering, experimentation, and continuous learning.
 
@@ -28,7 +28,7 @@ We focus on building and researching technologies in areas such as:
 
 ## Philosophy
 
-At NILO, we believe that great software is built through:
+At Nilo Labs, we believe that great software is built through:
 
 * **Curiosity** — constantly exploring new ideas and technologies
 * **Engineering discipline** — writing clean, maintainable, and scalable code
@@ -39,7 +39,7 @@ At NILO, we believe that great software is built through:
 
 ## Vision
 
-Our long-term vision is to grow NILO into a space for innovation, experimentation, and impactful software development.
+Our long-term vision is to grow Nilo Labs into a space for innovation, experimentation, and impactful software development.
 
 ---
 
@@ -47,4 +47,4 @@ Our long-term vision is to grow NILO into a space for innovation, experimentatio
 
 For inquiries or collaboration opportunities:
 
-**Email:** [danilotavares070@gmail.com](mailto:danilotavares070@gmail.com)
+**Email:** [danilotavarespr00gmail.com](mailto:danilotavarespr00@gmail.com)
