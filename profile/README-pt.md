@@ -2,7 +2,7 @@
 
 [🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
 
-A **Nilo Labs** é uma organização de pesquisa e desenvolvimento de software focada na construção de sistemas escaláveis, ferramentas inteligentes e produtos digitais modernos.
+A **Nellow Labs** é uma organização de pesquisa e desenvolvimento de software focada na construção de sistemas escaláveis, ferramentas inteligentes e produtos digitais modernos.
 
 Nosso objetivo é explorar a tecnologia através da engenharia prática, experimentação e aprendizado contínuo.
 
