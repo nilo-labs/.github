@@ -1,4 +1,4 @@
-# Nilo Labs
+# Nellow Labs
 
 [🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
 
@@ -28,7 +28,7 @@ Nosso foco é construir e pesquisar tecnologias em áreas como:
 
 ## Filosofia
 
-Na Nilo Labs, acreditamos que um excelente software é construído através de:
+Na Nellow Labs, acreditamos que um excelente software é construído através de:
 
 * **Curiosidade** — explorando constantemente novas ideias e tecnologias
 * **Disciplina de engenharia** — escrevendo código limpo, manutenível e escalável
@@ -39,7 +39,7 @@ Na Nilo Labs, acreditamos que um excelente software é construído através de:
 
 ## Visão
 
-Nossa visão de longo prazo é transformar a Nilo Labs em um espaço de inovação, experimentação e desenvolvimento de software de alto impacto.
+Nossa visão de longo prazo é transformar a Nellow Labs em um espaço de inovação, experimentação e desenvolvimento de software de alto impacto.
 
 ---
 
