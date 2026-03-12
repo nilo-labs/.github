@@ -1,8 +1,8 @@
-# Nellow Labs
+# Nilo Labs
 
 [🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
 
-**Nellow Labs** is a software development and research organization focused on building scalable systems, intelligent tools, and modern digital products.
+**Nilo Labs** is a software development and research organization focused on building scalable systems, intelligent tools, and modern digital products.
 
 Our goal is to explore technology through practical engineering, experimentation, and continuous learning.
 
@@ -28,7 +28,7 @@ We focus on building and researching technologies in areas such as:
 
 ## Philosophy
 
-At Nellow Labs, we believe that great software is built through:
+At Nilo Labs, we believe that great software is built through:
 
 * **Curiosity** — constantly exploring new ideas and technologies
 * **Engineering discipline** — writing clean, maintainable, and scalable code
