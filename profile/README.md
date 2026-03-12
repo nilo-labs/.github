@@ -47,4 +47,4 @@ Our long-term vision is to grow Nellow Labs into a space for innovation, experim
 
 For inquiries or collaboration opportunities:
 
-**Email:** [danilotavarespr00gmail.com](mailto:danilotavarespr00@gmail.com)
+**Email:** [hello@nilolabs.tech](mailto:hello@nilolabs.tech)
