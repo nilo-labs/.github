@@ -47,4 +47,4 @@ Nossa visão de longo prazo é transformar a Nellow Labs em um espaço de inova�
 
 Para dúvidas ou oportunidades de colaboração:
 
-**Email:** [danilotavarespr00@gmail.com](mailto:danilotavarespr00@gmail.com)
+**Email:** [hello@nilolabs.tech](mailto:hello@nilolabs.tech)
